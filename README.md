@@ -10,6 +10,7 @@ The `CreateDatePicker` package enables you to create a fully customizable date p
 - [Upcoming Updates](#upcoming-updates)
 - [Contributing](#contributing)
 - [License](#license)
+- [Support Me](#support-me)
 
 ### Integration Steps
 
