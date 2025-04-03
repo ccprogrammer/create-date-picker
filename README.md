@@ -2,7 +2,7 @@
 
 The `CreateDatePicker` package enables you to create a fully customizable date picker. You can create your own component without worrying about the functionality and place it anywhere to match your design
 
-<img src="https://github.com/ccprogrammer/create-date-picker-dev/raw/main/lib/assets/create-date-picker.gif?raw=true" alt="The example app running in Browser"  width="100%" />
+<img src="https://github.com/ccprogrammer/create-date-picker/raw/main/lib/assets/create-date-picker.gif?raw=true" alt="The example app running in Browser"  width="100%" />
 
 ## Table of Contents
 - [Integration Steps](#integration-steps)
