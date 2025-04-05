@@ -1,5 +1,5 @@
 name: create_date_picker
-description: "99% Costumizeable Datepicker"
+description: "Flutter plugin to create a 99% customizable date picker for Flutter"
 version: 1.0.2
 homepage: 'https://github.com/ccprogrammer/create-date-picker'
 
