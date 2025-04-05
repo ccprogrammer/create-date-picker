@@ -6,7 +6,7 @@ The `CreateDatePicker` package enables you to create a fully customizable date p
 
 ## Table of Contents
 - [Integration Steps](#integration-steps)
-- [Available Parameters in `CreateDatePicker`](#available-parameters-in-createdatepicker)
+- [Available Parameters](#available-parameters-in-createdatepicker)
 - [Upcoming Updates](#upcoming-updates)
 - [Contributing](#contributing)
 - [License](#license)
